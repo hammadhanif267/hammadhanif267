@@ -7,10 +7,6 @@ Email Me 👉 ✉️ **hamadhanif267@gmail.com.com** For Collaboration/Project o
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hammadhanif267&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies" />
