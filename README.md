@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Hammad Hanif
 **A passionate Full Stack Developer(Next.js, React.js, Node.js, Javascript) || Wordpress Developer || AI & ML Engineer**
 
-Email Me 👉 ✉️ **hamadhanif267@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **hamadhanif267@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 😄 **Pronouns:** Hammad Hanif
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
